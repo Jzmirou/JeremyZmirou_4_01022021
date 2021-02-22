@@ -775,7 +775,8 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #F9D7C7 !important;
+    font-weight: 800;
 }
 
 .btn-atomic-tangerine {
@@ -833,6 +834,10 @@ h4 {
 }
 #bloc-4-portfolio img {
     width: 100%;
+}
+
+#bloc-5-cta h2 {
+    position: relative;
 }
 @media (max-width: 1024px) {
     .bloc {
