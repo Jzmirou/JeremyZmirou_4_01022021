@@ -831,7 +831,9 @@ h4 {
 .temoignage span {
     color: #575757;
 }
-
+#bloc-4-portfolio img {
+    width: 100%;
+}
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
