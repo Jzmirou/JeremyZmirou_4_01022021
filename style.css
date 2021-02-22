@@ -824,6 +824,13 @@ h4 {
 .bg-presentation {
     background-image: url("img/image-de-presentation.png");
 }
+.temoignage p{
+    font-size: 20px;
+    margin: 0;
+}
+.temoignage span {
+    color: #575757;
+}
 
 @media (max-width: 1024px) {
     .bloc {
